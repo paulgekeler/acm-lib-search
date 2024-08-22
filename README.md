@@ -17,7 +17,7 @@ Chromedriver installed on device *https://developer.chrome.com/docs/chromedriver
 
 Options:
 - `git clone https://github.com/paulleo13/acm-lib-search.git`
-- via pip: `pip install acm-lib-search`
+- via pip: `pip install acm-lib-search` (! WARNING: Does not work as of right now. Haven't gotten around to fix it yet.)
 
 ##### How to use
 
